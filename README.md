@@ -1,7 +1,3 @@
-<div align ="center">
-  <head>Mistelteinn Vanadium</head>
-</div>
-
 <br />
 <div align="center">
 <a href="https://ibb.co/ck5rNFK"><img src="https://i.ibb.co/LYwZCtD/LogoFix.png" alt="LogoFix" border="50"></a>
@@ -14,4 +10,6 @@
     <a href="https://github.com/XavenaXv/Mistelteinn-Vanadium"><strong>Explore my files ! »</strong></a>
     <br />
   </p>
+  
+  * [![VisualStudio][visualstudio.microsoft.com]][VisualStudio-url]
 </div>
