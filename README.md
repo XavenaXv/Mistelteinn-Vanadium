@@ -7,4 +7,4 @@
 > Dapet contekan
 > Udh itu aja
 
-(https://ibb.co/ck5rNFK)
+![This is an image](https://ibb.co/ck5rNFK)
