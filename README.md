@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-<a><img src="https://i.ibb.co/LYwZCtD/LogoFix.png" alt="LogoFix" border="50" style="width:742px;height:836px;></a>
+<a><img src="https://i.ibb.co/LYwZCtD/LogoFix.png" alt="LogoFix" border="50" style="width:371px;height:418px;></a>
 
 <h1 align="center">Mistelteinn Vanadium</h1>
 
